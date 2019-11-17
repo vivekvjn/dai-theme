@@ -1,0 +1,26 @@
+{
+  "name": "dai-theme",
+  "displayName": "DAI Theme",
+  "description": "DAI Theme for custom files and types",
+  "version": "0.0.2",
+  "publisher": "vivekvijayan",
+  "author": {
+    "name": "Vivek Vijayan",
+    "email": "vivek.vijayan@dai.co.uk"
+  },
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Visual Studio Dark - DAI",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dai-theme-dark.json"
+      }
+    ]
+  }
+}

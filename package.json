@@ -8,6 +8,9 @@
     "name": "Vivek Vijayan",
     "email": "vivek.vijayan@dai.co.uk"
   },
+  "repository": {
+    "url": "https://github.com/vivekvjn/dai-theme"
+  },
   "engines": {
     "vscode": "^1.40.0"
   },

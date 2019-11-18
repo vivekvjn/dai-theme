@@ -2,11 +2,15 @@
   "name": "dai-theme",
   "displayName": "DAI Theme",
   "description": "DAI Theme for custom files and types",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "vivekvijayan",
   "author": {
     "name": "Vivek Vijayan",
     "email": "vivek.vijayan@dai.co.uk"
+  },
+  "icon": "./icon.jpg",
+  "repository": {
+    "url": "https://github.com/vivekvjn/dai-theme"
   },
   "engines": {
     "vscode": "^1.40.0"

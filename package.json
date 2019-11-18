@@ -21,7 +21,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Visual Studio Dark - DAI",
+        "label": "Dark (Visual Studio) - DAI",
         "uiTheme": "vs-dark",
         "path": "./themes/dai-theme-dark.json"
       }

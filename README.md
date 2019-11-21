@@ -7,7 +7,7 @@ This extension extends the 'Visual Studio Dark' color theme for more DAI specifi
 
 <p align="center">
   <br />
-  <img src="images/docs/select-color-theme.gif" alt="Select Color Theme" />
+  <img src="https://raw.githubusercontent.com/vivekvjn/dai-theme/master/images/docs/select-color-theme.gif" alt="Select Color Theme" />
   <br />
 </p>
 

@@ -2,6 +2,10 @@
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [0.0.5]
+
+- updated README.md
+
 ## [0.0.4]
 
 - Added color for token scope: support.type.c.extended.looper for DAI Loopers

@@ -2,13 +2,13 @@
   "name": "dai-theme",
   "displayName": "DAI Theme",
   "description": "DAI Theme for custom files and types",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "vivekvijayan",
   "author": {
     "name": "Vivek Vijayan",
     "email": "vivek.vijayan@dai.co.uk"
   },
-  "icon": "./icon.jpg",
+  "icon": "icon.jpg",
   "repository": {
     "url": "https://github.com/vivekvjn/dai-theme"
   },
@@ -21,7 +21,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Visual Studio Dark - DAI",
+        "label": "Dark (Visual Studio) - DAI",
         "uiTheme": "vs-dark",
         "path": "./themes/dai-theme-dark.json"
       }

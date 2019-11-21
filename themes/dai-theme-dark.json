@@ -1,5 +1,5 @@
 {
-  "name": "Visual Studio Dark - DAI",
+  "name": "Dark (Visual Studio) - DAI",
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
@@ -871,6 +871,12 @@
       "scope": "meta.define.plugin",
       "settings": {
         "foreground": "#be2f76"
+      }
+    },
+    {
+      "scope": "support.type.c.extended.looper",
+      "settings": {
+        "foreground": "#da3479"
       }
     }
   ]

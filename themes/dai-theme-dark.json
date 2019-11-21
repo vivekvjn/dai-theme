@@ -872,6 +872,12 @@
       "settings": {
         "foreground": "#be2f76"
       }
+    },
+    {
+      "scope": "support.type.c.extended.looper",
+      "settings": {
+        "foreground": "#da3479"
+      }
     }
   ]
 }

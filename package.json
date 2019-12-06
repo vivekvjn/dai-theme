@@ -26,5 +26,11 @@
         "path": "./themes/dai-theme-dark.json"
       }
     ]
+  },
+  "devDependencies": {
+    "standard-version": "^7.0.1"
+  },
+  "scripts": {
+    "release": "standard-version"
   }
 }

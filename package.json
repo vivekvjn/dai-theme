@@ -2,7 +2,7 @@
   "name": "dai-theme",
   "displayName": "DAI Theme",
   "description": "DAI Theme for custom files and types",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "vivekvijayan",
   "author": {
     "name": "Vivek Vijayan",
@@ -28,9 +28,17 @@
     ]
   },
   "devDependencies": {
+    "@commitlint/cli": "^8.2.0",
+    "@commitlint/config-conventional": "^8.2.0",
+    "husky": "^3.1.0",
     "standard-version": "^7.0.1"
   },
   "scripts": {
     "release": "standard-version"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
   }
 }

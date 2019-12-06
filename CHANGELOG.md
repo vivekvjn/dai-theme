@@ -1,6 +1,13 @@
-# Change Log
+# Changelog
 
-<!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [1.0.1](https://github.com/vivekvjn/dai-theme/compare/v1.0.0...v1.0.1) (2019-12-06)
+
+
+### Bug Fixes
+
+* correct scope for  plugin point ([5a93960](https://github.com/vivekvjn/dai-theme/commit/5a9396057a4c8a13fd427c30605f6356562c278b))
 
 ## [1.0.0]
 

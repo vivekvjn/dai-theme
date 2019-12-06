@@ -868,7 +868,7 @@
       }
     },
     {
-      "scope": "meta.define.plugin",
+      "scope": "meta.define.c.plugin",
       "settings": {
         "foreground": "#be2f76"
       }

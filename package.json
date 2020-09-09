@@ -36,6 +36,14 @@
   "scripts": {
     "release": "standard-version"
   },
+  "standard-version": {
+    "scripts": {
+      "prerelease": "git flow release start v`node get-next-version.js`"
+    },
+    "skip": {
+      "tag": true
+    }
+  },
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"

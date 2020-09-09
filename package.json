@@ -2,7 +2,7 @@
   "name": "dai-theme",
   "displayName": "DAI Theme",
   "description": "DAI Theme for custom files and types",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "vivekvijayan",
   "author": {
     "name": "Vivek Vijayan",
@@ -13,7 +13,7 @@
     "url": "https://github.com/vivekvjn/dai-theme"
   },
   "engines": {
-    "vscode": "^1.40.0"
+    "vscode": "^1.48.0"
   },
   "categories": [
     "Themes"
@@ -28,13 +28,21 @@
     ]
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.2.0",
-    "@commitlint/config-conventional": "^8.2.0",
-    "husky": "^3.1.0",
-    "standard-version": "^7.0.1"
+    "@commitlint/cli": "^9.1.2",
+    "@commitlint/config-conventional": "^11.0.0",
+    "husky": "^4.3.0",
+    "standard-version": "^9.0.0"
   },
   "scripts": {
     "release": "standard-version"
+  },
+  "standard-version": {
+    "scripts": {
+      "prerelease": "git flow release start v`node get-next-version.js`"
+    },
+    "skip": {
+      "tag": true
+    }
   },
   "husky": {
     "hooks": {

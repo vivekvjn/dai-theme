@@ -11,4 +11,12 @@ This extension extends the 'Visual Studio Dark' color theme for more DAI specifi
   <br />
 </p>
 
-**Enjoy!**
+## For Contributors
+
+### Release
+
+This starts a git-flow release branch with recommened semver and bumps version number and updates changelog
+
+```sh
+npm run release
+```

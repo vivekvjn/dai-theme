@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/vivekvjn/dai-theme/compare/v1.0.3...v1.1.0) (2021-01-06)
+
+
+### Features
+
+* updated theme with more entity themeing such as function parameters ([ee7e8fc](https://github.com/vivekvjn/dai-theme/commit/ee7e8fcc89691933ab86d4e271f7aadb7ef2c059))
+
 ### [1.0.3](https://github.com/vivekvjn/dai-theme/compare/v1.0.2...v1.0.3) (2020-09-09)
 
 ### [1.0.2](https://github.com/vivekvjn/dai-theme/compare/v1.0.1...v1.0.2) (2019-12-06)

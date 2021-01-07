@@ -427,7 +427,7 @@
     {
       "scope": "entity.name.function.preprocessor",
       "settings": {
-        "foreground": "#BD63C5"
+        "foreground": "#bf559c"
       }
     },
     {
@@ -507,7 +507,7 @@
         "entity.name.operator"
       ],
       "settings": {
-        "foreground": "#C586C0"
+        "foreground": "#ee5997"
       }
     },
     {

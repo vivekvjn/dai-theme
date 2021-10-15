@@ -663,6 +663,15 @@
       }
     },
     {
+      "name": "DAI Plugin Section Keyword",
+      "scope": [
+        "variable.other.c.plugin.section"
+      ],
+      "settings": {
+        "foreground": "#569cd6"
+      }
+    },
+    {
       "scope": "support.type.c.extended.looper",
       "settings": {
         "foreground": "#da3479"
